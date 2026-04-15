@@ -1,1 +1,6 @@
 this is a brand new file created on github.com
+
+LINE 1
+LINE 2
+LINE 3
+continue working on master branch
